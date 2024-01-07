@@ -29,3 +29,9 @@ https://drive.google.com/file/d/11oQpBr72LYUuAttIsSf-A9V9p7eRcgOx/view?usp=shari
 
 
 <img width="406" alt="Screenshot 2024-01-07 at 5 34 44 PM" src="https://github.com/3Ankit3/Weather_App/assets/78997181/13bf2ba0-9b7a-4d90-b42f-300efcdc23d1">
+
+<img width="400" alt="Screenshot 2024-01-07 at 5 35 37 PM" src="https://github.com/3Ankit3/Weather_App/assets/78997181/60dd4767-6b05-43bc-bd5a-0e873e3c6639">
+
+<img width="262" alt="Screenshot 2024-01-07 at 8 27 54 PM" src="https://github.com/3Ankit3/Weather_App/assets/78997181/4f9ebad3-aeef-446d-8e16-3ee2bc22bb03">
+
+
